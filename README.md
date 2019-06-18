@@ -1,3 +1,3 @@
 #AID1904 GIT学习
 
-1.学习
+!['dog'](dog.jpg)
